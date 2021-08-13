@@ -5,7 +5,7 @@
 #### I'm from East Java, Indonesia, I try to write code 💻 and solve problems .
 
 - 🔭 I’m currently working on Android Kernel
-- 🌱 I’m currently learning Dart & Flutter
+- 🌱 I’m currently learning C, Java, GLSL
 - 😄 Pronouns: He/Him
 
 <!--
